@@ -8,9 +8,10 @@
 	padding: 50px 0px 50px 0px;
 	border-bottom: 1px ridge;
 	min-height: 400px;
+	border-color: #eaecee;
 }
 
-.footer2 {
+.footer {
 	background-color: #d1c4e9;
 	margin: 0px auto;
 	padding: 20px 0px 20px 0px;
@@ -21,4 +22,19 @@
 	margin: 0px auto;
 	background: #9575cd;
 	color: floralwhite;
+}
+
+.address {
+	font-size: 80%;
+	margin: 0px;
+	color: 0f0f0f;
+}
+
+body {
+	padding: 50px 0px 0px 0px;
+	z-index: 0;
+}
+
+.navbar-dark {
+	background-color: #512da8;
 }
